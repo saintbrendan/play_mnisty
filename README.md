@@ -1,2 +1,2 @@
 # play_mnisty
-Nonstandard solutions for MNIST
+Nonstandard solutions for MNIST including simple preprocessing.
